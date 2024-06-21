@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Gelica';
+    src: url('../fonts/Gelica/fonnts.com-Gelica-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gelica';
+    src: url('../fonts/Gelica/fonnts.com-Gelica-Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gelica';
+    src: url('../fonts/Gelica/fonnts.com-Gelica-Medium.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Degular';
+    src: url('../fonts/Degular/fonnts.com-DegularDemo-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Degular';
+    src: url('../fonts/Degular/fonnts.com-DegularDemo-Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Degular';
+    src: url('../fonts/Degular/fonnts.com-DegularDemo-Medium.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+.font-degular {
+    font-family: 'Degular';
+}
+.font-gelica {
+    font-family: 'Gelica';
+}
